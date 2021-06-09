@@ -2,7 +2,7 @@
 # test project
 
 The project uses:
--html
--css
--javascript
+- html
+- css
+- javascript
 
